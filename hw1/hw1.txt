@@ -1,0 +1,53 @@
+Part (a):	Which of the following are acceptable behaviors in solving homeworks/projects?
+
+	(O) Looking up information relevant to the course online.
+	(x) Looking up or asking for sample solutions online.
+	(O) Talking to my classmates about general approaches about the problems (but no specific coding statements).
+	(x)	Copying code from my classmates, and then editing it significantly.
+	(O) Asking the course staff for help.
+	(x) Sitting next to my classmate and coding together as a team or with significant conversation about approach.
+	(x) Sharing my code with a classmate, even if he/she just wants to read over it and learn from it
+
+Part (b):	To dispute a grade on an assignment you should (list all that apply):
+
+	Email to the professor immediately.
+	(o) Raise the concern within 1 weeks of receiving the grade.
+	(o) If an assignment, assign your grader an issue on GitHub and if it can't be resolved then go see the TA.
+
+Part(c):	What is the late submission policy?
+
+	(x) One hour late submission is acceptable for each assignment.
+	(x) Each assignment can be submitted up to two days late for 50% credit.
+	(O) Each student has 4 late days of which only 1 can be used per HW
+	(x) Students need to get an approval before submitting an assignment late.
+
+Part(d):	After making a late submission by pushing your code to Gihub you should...
+
+	(O)	Do nothing. No special action is needed.
+	(x)	Complete the online late submission form
+	(O)	Start the next HW sooner (hint: this is a correct answer)
+
+Part (e):	If you have NO grace days left and it is after the submission deadline, we will accept your assignment under what circumstances.
+
+	(O)	None. We will not accept your submission.
+	(x)	There is an hour grace period after the deadline.
+	(?)	If there is a technical difficulty such as wireless trouble, or github issues, etc.) with submission.
+	(x)	If you email us your code as attachments.
+
+Part (a):	When cloning a Git repo, which of the following should you avoid:
+
+	(O) Cloning into a folder that itself is a git repo
+	Cloning into a sync'ed folder like Dropbox or Google Drive
+	Cloning into the Desktop folder of your VM
+
+	Part (b):	Provide the appropriate git command to perform the following operations:
+
+	Stage an untracked file to be committed. The file is called 'hw1q2b.cpp'.
+	-git add hwlq2b.cpp
+
+	Display the details of the last three commits in the repository.
+	-git log -p -3
+
+Part (c)
+	What is the full command to re-clone your private CSCI104 repo to your VM? Assume you are in an appropriate folder.
+	git clone git@github.com:yuhyunch/summer.git
